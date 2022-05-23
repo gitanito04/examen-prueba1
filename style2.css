@@ -7,3 +7,20 @@ h1{
    text-align: center; 
 }
 
+input.monedas{
+    color: red;
+}
+
+div.footer{
+    background-color: yellow;
+}
+
+p.footer{
+    color: black;
+    text-align: center;
+}
+
+span.footer{
+    color: red;
+    font-weight: bold;
+}
