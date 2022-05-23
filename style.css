@@ -1,0 +1,48 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(255, 163, 126);
+}
+
+p.bitcoin{
+    position: relative;
+    left: 1300px;
+    color: blue;
+    font-weight: bold;
+}
+
+p.etherum{
+    position: relative;
+    left: 1100px;
+    color: blue;
+    font-weight: bold;
+}
+
+div.etherum{
+    background-color: white;
+}
+
+p.litecoin{
+    position: relative;
+    left: 500px;
+    color: blue;
+    font-weight: bold;
+}
+
+div.footer{
+    background-color: yellow;
+}
+
+p.footer{
+    color: black;
+    text-align: center;
+}
+
+span.footer{
+    color: red;
+    font-weight: bold;
+}
